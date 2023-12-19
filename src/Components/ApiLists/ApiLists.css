@@ -1,0 +1,26 @@
+.all_list_data ul li{
+    list-style-type: none;
+    padding: 1rem 0;
+    border: 1px solid gray;
+}
+.all_list_data ul{
+    text-align: center;
+    margin: 1rem 0;
+    width: 300px;
+    height: 300px;
+}
+.all_list_data{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.test_form input{
+    padding: 10px 0;
+    width: 80%;
+}
+.test_form{
+    text-align: center;
+}
+.card_heading{
+    cursor: pointer;
+}
